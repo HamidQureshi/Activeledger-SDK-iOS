@@ -7,13 +7,13 @@ Pod::Spec.new do |spec|
 
   spec.description  = "Use SDK to GENERATE and ONBOARD keys to Ledger"
 
-  spec.homepage     = "https://github.com/activeledger/SDK-IOS"
+  spec.homepage     = "https://github.com/activeledger/Activeledger-SDK-iOS"
 
   spec.license      = { :type => "MIT", :file => "LICENSE" }
 
   spec.author             = { "hamidqureshi" => "hamidqureshi.hq000@gmail.com" }
 
-  spec.source       = { :git => "https://github.com/activeledger/SDK-IOS.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/activeledger/Activeledger-SDK-iOS.git", :tag => "#{spec.version}" }
 
   spec.source_files  = "Activeledger-SDK-IOS/**/*.{h,m}"
  
