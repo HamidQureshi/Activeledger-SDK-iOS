@@ -1,4 +1,4 @@
-framework module IKEventSource {
+module IKEventSource {
   umbrella header "IKEventSource-umbrella.h"
 
   export *

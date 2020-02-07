@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1BAA83C98D96738313EA8114E14227E5"
-               BuildableName = "IKEventSource.framework"
+               BuildableName = "libIKEventSource.a"
                BlueprintName = "IKEventSource"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

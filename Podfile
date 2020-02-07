@@ -1,8 +1,8 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+platform :ios, '10.0'
 
 target 'Activeledger-SDK-IOS' do
-  use_frameworks!
+  
 
   # Pods for Activeledger-SDK-IOS
 

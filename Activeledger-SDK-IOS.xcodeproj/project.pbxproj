@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		308A85C5515A0CFE35FA5B19 /* libPods-Activeledger-SDK-IOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5FBBF9C0721CBD6016C19AF /* libPods-Activeledger-SDK-IOS.a */; };
 		F022345223D9E6330058996F /* SSEUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = F022345123D9E6330058996F /* SSEUtil.swift */; };
 		F022345423DA16190058996F /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = F022345323DA16190058996F /* Event.swift */; };
 		F07BF37F23C7FB270083EC1D /* EllipticCurveKeyPair.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07BF37E23C7FB270083EC1D /* EllipticCurveKeyPair.swift */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		06948C1A29113E5445C72EA1 /* Pods-Activeledger-SDK-IOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Activeledger-SDK-IOS.debug.xcconfig"; path = "Target Support Files/Pods-Activeledger-SDK-IOS/Pods-Activeledger-SDK-IOS.debug.xcconfig"; sourceTree = "<group>"; };
+		B5FBBF9C0721CBD6016C19AF /* libPods-Activeledger-SDK-IOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Activeledger-SDK-IOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E309D24AE4240AD987B77C9A /* Pods-Activeledger-SDK-IOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Activeledger-SDK-IOS.release.xcconfig"; path = "Target Support Files/Pods-Activeledger-SDK-IOS/Pods-Activeledger-SDK-IOS.release.xcconfig"; sourceTree = "<group>"; };
 		F022345123D9E6330058996F /* SSEUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSEUtil.swift; sourceTree = "<group>"; };
 		F022345323DA16190058996F /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				308A85C5515A0CFE35FA5B19 /* libPods-Activeledger-SDK-IOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -159,6 +162,7 @@
 		F0AB8D9823C14EA2002AD0CD /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B5FBBF9C0721CBD6016C19AF /* libPods-Activeledger-SDK-IOS.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

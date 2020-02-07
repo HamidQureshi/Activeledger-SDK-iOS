@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "55FCEEF946276F46FF961130A06D4890"
-               BuildableName = "Pods_Activeledger_SDK_IOS.framework"
+               BuildableName = "libPods-Activeledger-SDK-IOS.a"
                BlueprintName = "Pods-Activeledger-SDK-IOS"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
